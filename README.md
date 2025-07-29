@@ -29,6 +29,7 @@
 ---
 
 ### ☕ Let’s Connect:
-[![Instagram](https://www.instagram.com/f4.tihhh?igsh=MTBwdzhld3A3MjBrYw==)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@USERNAME)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/@f4.tihhh)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@f4.tihhh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+
