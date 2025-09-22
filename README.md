@@ -1,72 +1,79 @@
+<!-- Banner PHP -->
 <p align="center">
-  <!-- Futuristic PHP Banner -->
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/php.svg" alt="php" width="96" style="opacity:0.95; filter: drop-shadow(0 6px 18px rgba(0,255,200,0.06));"/>
+  <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP Logo" width="200"/>
 </p>
 
-<h1 align="center">
-  <span style="font-family: 'Fira Code', monospace;">Hi, I'm <b>Fatih</b></span> 👋
-</h1>
-<h3 align="center">🧭 PHP Developer • Backend Engineer • Futuristik • Open Source</h3>
+<h1 align="center">👋 Hi, I'm Fatih</h1>
+<h3 align="center">⚡ Futuristic PHP Developer | Building with Code & Creativity ⚡</h3>
 
+<!-- Animasi teks -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=12EAEA&width=720&lines=PHP+Architect+%7C+REST+APIs+%7C+CLI+Tools;Automating+Workflows+%7C+Test+Driven+%7C+Always+Learning" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=777BB4&center=true&vCenter=true&width=500&lines=PHP+Developer+👨‍💻;Backend+Builder+🔧;Open+Source+Contributor+🌍;Game+Lover+🎮" alt="Typing SVG" />
 </p>
 
 ---
 
-## ✨ Highlight (Futuristic PHP kit)
-- 🔷 **Tema:** Fokus pada *core PHP*, arsitektur microservices, API, dan CLI tools.  
-- ⚙️ **Production-ready:** Docker + GitHub Actions CI/CD (badge ready).  
-- 🛰️ **Futuristic features:** badges, dynamic stats, contribution-sparkline, terminal snippet, project templates, realtime-like widgets (via shields & external cards).
+## 🌌 About Me
+✨ Passionate about **PHP development**  
+🚀 Exploring the future of **web backend & APIs**  
+🎨 Mixing **aesthetic design** + **clean code**  
+🎮 Love making projects fun & interactive  
 
 ---
 
-## 🛠️ Tech Stack (Core PHP Focus)
+## 🛠️ Tech Universe
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PSR-4-0A0A0A?style=for-the-badge&logo=php&logoColor=white&label=PSR-4"/>
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHPUnit-9F7AEA?style=for-the-badge&logo=phpunit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
 </p>
 
 ---
 
-## 🔭 Project Showcase (Pinned Ideas / Template)
-> Semua link ganti `yourusername` → username-mu, dan `repo` → nama repo.
-
-- 🔹 **PHP Micro API (template)** — `yourusername/php-micro-api`  
-  Minimal API dengan Router PSR-7, middleware, dan contoh unit test.
-
-- 🔹 **CLI Toolkit for Automation** — `yourusername/php-cli-tools`  
-  Contoh program CLI (Symfony Console-like) untuk automasi deployment & data tasks.
-
-- 🔹 **Auth + JWT Boilerplate** — `yourusername/php-jwt-auth`  
-  Autentikasi JWT, refresh tokens, role-based access control.
-
-- 🔹 **Realtime Worker (Queue + Redis)** — `yourusername/php-worker`  
-  Consumer worker untuk background job, retry policy, metrics.
+## 🚀 Featured Projects
+- 📝 [**PHP Blog Engine**](https://github.com/username/php-blog) – Minimalist blogging platform with PHP & MySQL  
+- 🔐 [**PHP Auth System**](https://github.com/username/php-auth) – Secure login & register with hashed passwords  
+- 🌐 [**PHP API Starter**](https://github.com/username/php-api) – Boilerplate for RESTful APIs in PHP  
 
 ---
 
-## 🧪 Local Dev — Quickstart (copy paste)
-```bash
-# clone
-git clone https://github.com/yourusername/php-micro-api.git
-cd php-micro-api
+## 🎮 Play a Game!
+> Mini Snake Game 🐍 (works inside README!)
 
-# environment
-cp .env.example .env
-# sesuaikan DB, REDIS, dll
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random Dev Joke" />
+</p>
 
-# jalankan dengan docker (recommended)
-docker compose up --build -d
+<p align="center">
+  <a href="https://snake.arcade.dev/?username=yourusername">
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  </a>
+</p>
 
-# install deps
-composer install
+*👉 Klik gambar di atas untuk main game interaktif!*  
 
-# run tests
-composer test
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-777BB4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-005C84?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ *Code the Future with PHP ⚡*
