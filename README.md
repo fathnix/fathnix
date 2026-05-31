@@ -21,14 +21,6 @@ Selamat datang di profil GitHub saya! Saya adalah seorang programmer yang berfok
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br />JavaScript
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br />React
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -43,21 +35,5 @@ Selamat datang di profil GitHub saya! Saya adalah seorang programmer yang berfok
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br />Git
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br />Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br />VS Code
-    </td>
   </tr>
 </table>
-
----
-
-## 📫 Hubungi Saya
-
-Jika Anda ingin berkolaborasi dalam proyek PHP/JS atau hanya ingin menyapa:
-- 📧 **Email:** mhmd.fatih2106@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/username](https://www.linkedin.com/in/muhammad-fatih-bba497327/)
