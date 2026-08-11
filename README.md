@@ -26,17 +26,8 @@ Berikut adalah riwayat "kotak hijau" ngoding saya! 🚀
 
 ---
 
-### 📊 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=fathnix&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Fathnix's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathnix&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
-</div>
-
----
-
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [LinkedIn Kamu](https://linkedin.com/in/username-kamu)
-- 📧 **Email:** emailkamu@example.com
+- 💼 **LinkedIn:** [LinkedIn Kamu](https://linkedin.com/in/muhammad-fatih-ganteng2109)
+- 📧 **Email:** (mhmd.fatih2106@gmail.com)
 
 ⭐️ *Thanks for visiting my profile!* ⭐️
