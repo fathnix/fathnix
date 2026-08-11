@@ -20,14 +20,14 @@ Saya sehari-hari bekerja dan bereksperimen dengan teknologi berikut:
 
 ### 🟩 My Contributions 
 
-Berikut adalah riwayat "kotak hijau" ngoding saya! 🚀
+Berikut adalah riwayat contibution saya! 🚀
 
 ![Fathnix's GitHub Contribution Graph](https://ghchart.rshah.org/219138/fathnix)
 
 ---
 
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [LinkedIn Kamu](https://linkedin.com/in/muhammad-fatih-ganteng2109)
+- 💼 **LinkedIn:** [Muhammad Fatih | BE](https://linkedin.com/in/muhammad-fatih-ganteng2109)
 - 📧 **Email:** (mhmd.fatih2106@gmail.com)
 
 ⭐️ *Thanks for visiting my profile!* ⭐️
