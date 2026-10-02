@@ -18,14 +18,6 @@ Saya sehari-hari bekerja dan bereksperimen dengan teknologi berikut:
 
 ---
 
-### 🟩 My Contributions 
-
-Berikut adalah riwayat contibution saya! 🚀
-
-![Fathnix's GitHub Contribution Graph](https://ghchart.rshah.org/219138/fathnix)
-
----
-
 ### 📫 Let's Connect!
 - 💼 **LinkedIn:** [Muhammad Fatih | BE](https://linkedin.com/in/muhammad-fatih-ganteng2109)
 - 📧 **Email:** (mhmd.fatih2106@gmail.com)
