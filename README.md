@@ -152,37 +152,6 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Fathnix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathnix&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Fathnix&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fathnix&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" alt="Trophies"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fathnix&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fathnix/Fathnix/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fathnix/Fathnix/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Fathnix/Fathnix/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
 ## 🤝 Mari Bekerja Sama
 
 Tertarik membangun produk digital bersama atau butuh bantuan teknis untuk proyek Anda?
