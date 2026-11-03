@@ -1,15 +1,18 @@
 <div align="center">
 
-# Muhammad Fatih 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Muhammad%20Fatih&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Mobile%20%7C%20DevOps&descSize=18&descAlignY=60" alt="header" width="100%"/>
 
-### Software Engineer · Full-Stack · Mobile · DevOps
-**Founder of [Flux Project](https://fluxproject.pages.dev)**
+<a href="https://github.com/Fathnix">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=45&lines=Full-Stack+Developer+%26+Software+Engineer;Web+%7C+Android+%7C+iOS+%7C+Backend+%7C+Cloud;Founder+of+Flux+Project;Dari+ide+sampai+production%2C+end-to-end" alt="Typing SVG" />
+</a>
 
-Merancang dan membangun produk digital end-to-end: arsitektur backend, aplikasi web, aplikasi mobile Android & iOS, hingga infrastruktur yang siap produksi.
+<br/>
 
-[![Website](https://img.shields.io/badge/Flux_Project-fluxproject.pages.dev-0A0A0A?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://fluxproject.pages.dev)
+[![Flux Project](https://img.shields.io/badge/Flux_Project-fluxproject.pages.dev-0A0A0A?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://fluxproject.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Fatih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fatih-ganteng2109)
 [![Email](https://img.shields.io/badge/Email-mhmd.fatih2106@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmd.fatih2106@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Fathnix&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -17,18 +20,25 @@ Merancang dan membangun produk digital end-to-end: arsitektur backend, aplikasi 
 
 ## 👨‍💻 Tentang Saya
 
-Saya adalah **software engineer** yang menangani seluruh siklus pengembangan: dari analisis kebutuhan dan perancangan arsitektur, implementasi backend dan frontend, aplikasi mobile lintas platform, sampai deployment dan operasional server. Berawal dari ekosistem PHP & Laravel, kini saya bekerja lintas bahasa dan framework, dan memilih teknologi berdasarkan **kebutuhan masalah, bukan tren**.
+Saya adalah **software engineer** yang menangani seluruh siklus pengembangan: analisis kebutuhan, perancangan arsitektur, backend, frontend, aplikasi mobile lintas platform, sampai deployment dan operasional server. Berawal dari ekosistem PHP & Laravel, kini saya bekerja lintas bahasa dan framework, dan memilih teknologi berdasarkan **kebutuhan masalah, bukan tren**.
 
-Saya mengelola infrastruktur sendiri, mulai dari provisioning VPS, containerization, hingga orkestrasi dengan Kubernetes, sehingga keputusan di level kode selalu mempertimbangkan bagaimana sistem akan di-deploy, dipantau, dan dirawat.
+Saya mengelola infrastruktur sendiri, dari provisioning VPS, containerization, sampai orkestrasi Kubernetes, sehingga setiap keputusan di level kode mempertimbangkan bagaimana sistem akan di-deploy, dipantau, dan dirawat.
+
+|  |  |
+| --- | --- |
+| 🔭 **Saat ini** | Membangun dan mengembangkan **[Flux Project](https://fluxproject.pages.dev)** |
+| 🧰 **Spesialisasi** | Backend, Web, Mobile (Android & iOS), DevOps |
+| 🤖 **Workflow** | Pengembangan dibantu AI agent (Claude Code, Antigravity, Codex, Hermes) |
+| 📫 **Terbuka untuk** | Proyek freelance, kolaborasi, dan kerja sama bisnis |
 
 ---
 
 ## 🧭 Prinsip Engineering
 
-- **Right tool for the job:** teknologi dipilih lewat pertimbangan trade-off (performa, skalabilitas, biaya, dan kemudahan perawatan)
-- **Arsitektur yang bersih:** pemisahan tanggung jawab yang jelas, kode yang mudah dibaca, diuji, dan dikembangkan
-- **Security by default:** validasi input, autentikasi dan otorisasi yang benar, serta pengelolaan secret yang aman
-- **Reproducible environment:** development, staging, dan production berjalan konsisten lewat Docker dan CI/CD
+- **Right tool for the job:** teknologi dipilih lewat pertimbangan trade-off (performa, skalabilitas, biaya, kemudahan perawatan)
+- **Arsitektur yang bersih:** pemisahan tanggung jawab yang jelas, kode mudah dibaca, diuji, dan dikembangkan
+- **Security by default:** validasi input, autentikasi dan otorisasi yang benar, pengelolaan secret yang aman
+- **Reproducible environment:** development, staging, dan production konsisten lewat Docker dan CI/CD
 - **AI sebagai akselerator:** AI agent mempercepat iterasi, sementara keputusan arsitektur, review, dan pengujian tetap di tangan engineer
 
 ---
@@ -39,107 +49,137 @@ Saya mengelola infrastruktur sendiri, mulai dari provisioning VPS, containerizat
 
 | Layanan | Cakupan |
 | --- | --- |
-| 🌐 **Pengembangan Web** | Company profile, landing page, aplikasi web, dashboard, dan REST API |
-| 📱 **Aplikasi Mobile** | Android & iOS dengan Flutter dan React Native |
+| 🌐 **Pengembangan Web** | Company profile, landing page, aplikasi web, dashboard, REST API |
+| 📱 **Aplikasi Mobile** | Android & iOS dengan Flutter, React Native, dan Kotlin |
 | 🧩 **Sistem Informasi** | Perancangan dan pembangunan sistem sesuai kebutuhan bisnis |
-| ☁️ **Deployment & DevOps** | Setup VPS, containerization, orkestrasi, dan CI/CD |
+| ☁️ **Deployment & DevOps** | Setup VPS, containerization, orkestrasi, CI/CD |
 
-👉 Kunjungi **[fluxproject.pages.dev](https://fluxproject.pages.dev)** untuk melihat layanan dan berdiskusi mengenai proyek Anda.
+<div align="center">
+
+[![Kunjungi Flux Project](https://img.shields.io/badge/Kunjungi-Flux_Project_→-38BDF8?style=for-the-badge)](https://fluxproject.pages.dev)
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend & Full-Stack Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+**Backend & Full-Stack**<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,nextjs,go,rust,kotlin&perline=8" alt="backend"/>
 
-### Database & Cache
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind&perline=8" alt="frontend"/>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Mobile (Android & iOS)**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin&perline=8" alt="mobile"/>
 
-### Mobile (Android & iOS)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Database & Backend-as-a-Service**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,supabase&perline=8" alt="database"/>
 
-### DevOps & Infrastruktur
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+**DevOps & Infrastruktur**<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,gitlab,githubactions,cloudflare&perline=8" alt="devops"/>
 
-### Version Control & Kolaborasi
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+**Tools & Version Control**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab&perline=8" alt="tools"/>
+
+---
+
+## 🏗️ Dari Ide ke Production
+
+Satu ekosistem utuh yang saya kerjakan sendiri, dari client sampai infrastruktur:
+
+```mermaid
+flowchart LR
+    subgraph Client["Client"]
+        W["Web<br/>Next.js, React, Vue, Angular"]
+        M["Mobile<br/>Flutter, React Native, Kotlin"]
+    end
+    subgraph Backend["Backend"]
+        API["API<br/>Laravel, NestJS, Go, Rust"]
+    end
+    subgraph Data["Data"]
+        DB[("MySQL, PostgreSQL, Redis")]
+        BaaS[("Firebase, Supabase")]
+    end
+    subgraph Infra["Infrastruktur"]
+        D["Docker, Kubernetes, VPS, CI/CD"]
+    end
+    W --> API
+    M --> API
+    API --> DB
+    API --> BaaS
+    D -. deploy .-> API
+```
 
 ---
 
 ## ☁️ Infrastruktur & Self-Hosting
 
-Saya terbiasa mengelola server secara mandiri lewat akses remote ke VPS, mulai dari persiapan hingga operasional harian:
+Saya terbiasa mengelola server secara mandiri lewat akses remote ke VPS:
 
 - Provisioning dan konfigurasi server Linux melalui SSH
-- Deployment aplikasi dengan Docker dan, untuk skala lebih besar, orkestrasi dengan Kubernetes
+- Deployment dengan Docker dan, untuk skala lebih besar, orkestrasi Kubernetes
 - Konfigurasi web server dan reverse proxy
 - Pipeline CI/CD dengan GitLab dan GitHub Actions
-- Maintenance, monitoring, dan troubleshooting layanan yang berjalan di production
+- Maintenance, monitoring, dan troubleshooting layanan di production
 
 ---
 
 ## 🤖 AI-Assisted Development
 
-Saya memakai AI coding agent sebagai bagian dari alur kerja harian untuk menulis, me-review, me-refactor, dan men-debug kode dengan lebih cepat.
-
 | Tool | Peran dalam workflow |
 | --- | --- |
-| **Claude Code** | Implementasi fitur, refactoring, dan review kode langsung dari terminal |
-| **Antigravity** | Pengembangan agentic dan eksplorasi solusi |
+| **Claude Code** | Implementasi fitur, refactoring, dan review kode dari terminal |
+| **Antigravity (agy)** | Pengembangan agentic dan eksplorasi solusi |
 | **Codex** | Generasi dan penyempurnaan kode |
 | **Hermes** | Otomasi tugas dan dukungan alur kerja developer |
 
 ---
 
-## 💼 Yang Bisa Saya Kerjakan
-
-- Merancang dan membangun **REST API** dan layanan backend dengan Laravel, NestJS, Go, atau Rust sesuai kebutuhan sistem
-- Membuat **aplikasi web** lengkap dengan Next.js, React, Vue, atau Angular: autentikasi, dashboard, manajemen data, dan integrasi pihak ketiga
-- Mengembangkan **aplikasi mobile** Android dan iOS dengan satu basis kode (Flutter / React Native)
-- Merancang **skema database** dan mengoptimalkan query
-- **Containerize** aplikasi dengan Docker dan men-deploy ke VPS atau cluster Kubernetes
-- Menyiapkan **CI/CD pipeline** dan konfigurasi server
-- Membangun **sistem informasi** end-to-end sesuai kebutuhan bisnis
-
----
-
 ## 🔄 Alur Kerja Proyek
+
+```mermaid
+flowchart LR
+    A["Discovery"] --> B["Arsitektur"] --> C["Implementasi"] --> D["Pengujian"] --> E["Deployment"] --> F["Maintenance"]
+```
 
 1. **Discovery:** memahami tujuan bisnis, kebutuhan pengguna, dan batasan teknis
 2. **Arsitektur:** menentukan stack, desain sistem, dan skema data
 3. **Implementasi:** pengembangan bertahap dengan version control dan code review
 4. **Pengujian:** validasi fungsi, keamanan, dan performa sebelum rilis
-5. **Deployment:** rilis ke production dengan pipeline yang terotomasi
+5. **Deployment:** rilis ke production dengan pipeline terotomasi
 6. **Maintenance:** pemantauan dan pengembangan berkelanjutan
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Fathnix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathnix&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Fathnix&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fathnix&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" alt="Trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fathnix&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fathnix/Fathnix/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fathnix/Fathnix/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Fathnix/Fathnix/output/github-snake.svg">
+</picture>
+
+</div>
 
 ---
 
@@ -154,5 +194,7 @@ Tertarik membangun produk digital bersama atau butuh bantuan teknis untuk proyek
 <div align="center">
 
 ⭐️ *Terima kasih sudah mampir ke profil saya!* ⭐️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="footer" width="100%"/>
 
 </div>
